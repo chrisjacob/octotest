@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://chrisjacob.github.io/octotest/blog/2013/08/26/hello-world/</loc>
+        <lastmod>2013-08-26T23:53:19+10:00</lastmod>
+    </url>
+    <url>
         <loc>http://chrisjacob.github.io/octotest/blog/archives/</loc>
-        <lastmod>2013-08-26T23:35:59+10:00</lastmod>
+        <lastmod>2013-08-26T23:53:19+10:00</lastmod>
     </url>
     <url>
         <loc>http://chrisjacob.github.io/octotest/</loc>
-        <lastmod>2013-08-26T23:35:59+10:00</lastmod>
+        <lastmod>2013-08-26T23:53:19+10:00</lastmod>
     </url>
     <url>
         <loc>http://chrisjacob.github.io/octotest/robots.txt</loc>
